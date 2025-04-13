@@ -6,7 +6,7 @@ import Redux from './Redux'
 
 function App() {
   return (
-    <div>
+    <div className='container py-5'>
       <Redux />
     </div>
   )
